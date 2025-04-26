@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Aqura
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/35063d5a-b53b-4fd1-97b1-d082bcd0c071
+**URL**: (https://jal-saathi-seva.lovable.app/)
 
 ## How can I edit this code?
 
